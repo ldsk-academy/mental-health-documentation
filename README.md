@@ -7,7 +7,7 @@
 
 ## 2. Casos de Uso
 
-![Diagrama de Casos de Uso](./assets/diagrama_casos_de_uso.png)
+![Diagrama de casos de uso](https://github.com/user-attachments/assets/8e7140bf-d7d2-4bb6-a754-b48b73c04e1d)
 
 ### 2.1 Casos de Uso para Pacientes
 
